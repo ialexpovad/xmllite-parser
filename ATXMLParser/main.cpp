@@ -1,3 +1,9 @@
+/**
+ * @file       main.cpp
+ * @author     Alex Povod
+ * @date       March 29, 2023
+ */
+
 #include <iostream>
 #include "src/common.h"
 #include "src/filestream.h"
