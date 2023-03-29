@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Configuration>
+	<Data strValue="something" intValue = "100"  boolValue="True" />
+	<Description> A long text description, which is defined in a text node </Description>
+	<ItemList>
+		<Item a = "1" />
+		<Item a = "2" />
+		<Item a= " 3" />
+		<Item a= " 4" />
+		<Item a= " 5" />
+		<Item a= " 6" />
+	</ItemList>
+</Configuration>
